@@ -21,6 +21,7 @@ from sklearn.cluster import HDBSCAN
 import parc
 import phenograph as ph
 from sklearn.decomposition import PCA
+import matplotlib.pyplot as plt
 
 
 # time functions
